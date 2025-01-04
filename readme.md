@@ -22,7 +22,7 @@ The **Spreadsheet to Form** project is a Google Apps Script that automates the p
    ```
    | Question                          | Option 1 | Option 2 | Option 3 |
    |-----------------------------------|----------|----------|----------|
-   | What is your favorite color?     | Red      | Blue     | Green    |
+   | What is your favorite color?      | Red      | Blue     | Green    |
    | What is your favorite animal?     | Dog      | Cat      | Bird     |
    ```
 
